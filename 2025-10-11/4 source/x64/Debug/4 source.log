@@ -1,0 +1,6 @@
+﻿  source4.cpp
+C:\Users\USER\Documents\2025-cpp\2025-10-11\4 source\source4.cpp(11,16): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+      C:\Users\USER\Documents\2025-cpp\2025-10-11\4 source\source4.cpp(11,16):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 4
+  
+  4 source.vcxproj -> C:\Users\USER\Documents\2025-cpp\2025-10-11\x64\Debug\4 source.exe

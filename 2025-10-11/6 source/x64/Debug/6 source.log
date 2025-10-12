@@ -1,0 +1,7 @@
+﻿  source6.cpp
+C:\Users\USER\Documents\2025-cpp\2025-10-11\6 source\source6.cpp(9,9): error C2632: недопустимый "double" с последующим "int"
+C:\Users\USER\Documents\2025-cpp\2025-10-11\6 source\source6.cpp(24,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\USER\Documents\2025-cpp\2025-10-11\6 source\source6.cpp(25,16): warning C4474: "printf" : для строки формата передано слишком много аргументов
+      C:\Users\USER\Documents\2025-cpp\2025-10-11\6 source\source6.cpp(25,16):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 2
+  
