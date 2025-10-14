@@ -2,10 +2,10 @@
 int main(int argc, char** argv)
 {
     int a = 0;
-    int n = 0;
-    scanf_s("%d" "%d", &a, &n);
-    printf("%d", (n / a) + 1);
+    int b = 0;
+    scanf_s("%d" "%d", &a, &b);
+    printf("%d", (b / a) + 1);
     printf(" ");
-    printf("%d", n - ((n / a) * a));
+    printf("%d", b - ((b / a) * a));
     return 0;
 }

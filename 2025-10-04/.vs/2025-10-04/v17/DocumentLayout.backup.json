@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{61555324-FFAB-491A-9D14-684B365A8C9E}|19 source\\19 source.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-04\\19 source\\source19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{61555324-FFAB-491A-9D14-684B365A8C9E}|19 source\\19 source.vcxproj|solutionrelative:19 source\\source19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F9F83D7-5AEF-448B-AC65-0D3F0B080E08}|13 source\\13 source.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-04\\13 source\\source13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8F9F83D7-5AEF-448B-AC65-0D3F0B080E08}|13 source\\13 source.vcxproj|solutionrelative:13 source\\source13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{854A2D53-71B4-4900-8623-98BA0AB6D2E3}|12 source\\12 source.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-04\\12 source\\source12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{854A2D53-71B4-4900-8623-98BA0AB6D2E3}|12 source\\12 source.vcxproj|solutionrelative:12 source\\source12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6B5DFF47-3804-4E2C-8F39-61B862A175EF}|21 source\\21 source.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-04\\21 source\\source21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6B5DFF47-3804-4E2C-8F39-61B862A175EF}|21 source\\21 source.vcxproj|solutionrelative:21 source\\source21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{854A2D53-71B4-4900-8623-98BA0AB6D2E3}|12 source\\12 source.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-04\\12 source\\source12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{854A2D53-71B4-4900-8623-98BA0AB6D2E3}|12 source\\12 source.vcxproj|solutionrelative:12 source\\source12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "source21.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-04\\21 source\\source21.cpp",
               "RelativeDocumentMoniker": "21 source\\source21.cpp",
@@ -38,31 +34,17 @@
               "RelativeToolTip": "21 source\\source21.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-07T16:53:54.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T16:53:54.021Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "source19.cpp",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-04\\19 source\\source19.cpp",
-              "RelativeDocumentMoniker": "19 source\\source19.cpp",
-              "ToolTip": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-04\\19 source\\source19.cpp",
-              "RelativeToolTip": "19 source\\source19.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-07T16:53:36.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "source13.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-04\\13 source\\source13.cpp",
               "RelativeDocumentMoniker": "13 source\\source13.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-04\\13 source\\source13.cpp",
               "RelativeToolTip": "13 source\\source13.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-07T16:18:16.51Z",
               "EditorCaption": ""
@@ -77,8 +59,7 @@
               "RelativeToolTip": "12 source\\source12.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-07T16:17:58.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-07T16:17:58.466Z"
             }
           ]
         }

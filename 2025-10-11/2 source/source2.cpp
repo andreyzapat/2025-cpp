@@ -5,8 +5,8 @@ int main(int argc, char** argv)
 	scanf_s("%d", &a);
 	int b = ((a / 1000) % 10) + ((a / 1000) / 100) + (((a / 1000) / 10) % 10);
 	int c = ((a % 1000) % 10) + ((a % 1000) / 100) + (((a % 1000) / 10) % 10);
-
-	if (b == c) {
+	if (b == c) 
+	{
 		printf("YES");
 	}
 	else {
