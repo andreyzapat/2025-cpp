@@ -1,4 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (1 source.vcxproj).  Это может привести к ошибкам очистки и перестроения.
-  source1.1.cpp
-C:\Users\USER\Documents\2025-cpp\2025-10-11\1 source\source1.1.cpp(24,13): warning C4804: <: небезопасное использование типа "bool" в операции
-  1 source.vcxproj -> C:\Users\USER\Documents\2025-cpp\2025-10-11\x64\Debug\1.1 source.exe

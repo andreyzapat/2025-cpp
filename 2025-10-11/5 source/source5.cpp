@@ -21,12 +21,11 @@ int main(int argc, char** argv)
 	}
 	else if (b == 1)
 	{
-		printf("+");
-		printf("x");
+		printf("+x");
 	}
 	else if (b == -1)
 	{
-		printf("-");
+		printf("-x");
 		printf("x");
 	}
 	else if (b > 0)
