@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E1CEF5C-BD09-452E-B084-99BF2B98B061}|5\\5.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\5\\source5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2E1CEF5C-BD09-452E-B084-99BF2B98B061}|5\\5.vcxproj|solutionrelative:5\\source5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62197002-200A-4A6E-BAEE-0BF8F9C1698B}|4\\4.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\4\\source4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{62197002-200A-4A6E-BAEE-0BF8F9C1698B}|4\\4.vcxproj|solutionrelative:4\\source4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70AD2EAD-F636-4665-8F52-8BFDAD3141FD}|3\\3.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\3\\source3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{70AD2EAD-F636-4665-8F52-8BFDAD3141FD}|3\\3.vcxproj|solutionrelative:3\\source3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{75BBA240-3BC8-469D-B716-52963935F03F}|2\\2.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\2\\source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{75BBA240-3BC8-469D-B716-52963935F03F}|2\\2.vcxproj|solutionrelative:2\\source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E06F1B76-5905-4BB2-9D33-19AD9080AAB1}|1\\1.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\1\\source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E06F1B76-5905-4BB2-9D33-19AD9080AAB1}|1\\1.vcxproj|solutionrelative:1\\source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1C940E26-6827-4AB2-B304-18E76B4D10FE}|7\\7.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\7\\source7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C940E26-6827-4AB2-B304-18E76B4D10FE}|7\\7.vcxproj|solutionrelative:7\\source7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{837F1D34-8519-4385-B19C-4F5F17FE5BC0}|6\\6.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\6\\source6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{837F1D34-8519-4385-B19C-4F5F17FE5BC0}|6\\6.vcxproj|solutionrelative:6\\source6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C940E26-6827-4AB2-B304-18E76B4D10FE}|7\\7.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\7\\source7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1C940E26-6827-4AB2-B304-18E76B4D10FE}|7\\7.vcxproj|solutionrelative:7\\source7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E06F1B76-5905-4BB2-9D33-19AD9080AAB1}|1\\1.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\1\\source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E06F1B76-5905-4BB2-9D33-19AD9080AAB1}|1\\1.vcxproj|solutionrelative:1\\source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75BBA240-3BC8-469D-B716-52963935F03F}|2\\2.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\2\\source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{75BBA240-3BC8-469D-B716-52963935F03F}|2\\2.vcxproj|solutionrelative:2\\source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AD2EAD-F636-4665-8F52-8BFDAD3141FD}|3\\3.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\3\\source3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70AD2EAD-F636-4665-8F52-8BFDAD3141FD}|3\\3.vcxproj|solutionrelative:3\\source3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62197002-200A-4A6E-BAEE-0BF8F9C1698B}|4\\4.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\4\\source4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62197002-200A-4A6E-BAEE-0BF8F9C1698B}|4\\4.vcxproj|solutionrelative:4\\source4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E1CEF5C-BD09-452E-B084-99BF2B98B061}|5\\5.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\5\\source5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2E1CEF5C-BD09-452E-B084-99BF2B98B061}|5\\5.vcxproj|solutionrelative:5\\source5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,35 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "source7.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\7\\source7.cpp",
               "RelativeDocumentMoniker": "7\\source7.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\7\\source7.cpp",
               "RelativeToolTip": "7\\source7.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-17T10:43:29.734Z"
+              "WhenOpened": "2025-10-17T10:43:29.734Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "source6.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\6\\source6.cpp",
               "RelativeDocumentMoniker": "6\\source6.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\6\\source6.cpp",
               "RelativeToolTip": "6\\source6.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-17T10:43:21.549Z"
+              "WhenOpened": "2025-10-17T10:43:21.549Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "source5.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\5\\source5.cpp",
               "RelativeDocumentMoniker": "5\\source5.cpp",
@@ -79,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "source4.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\4\\source4.cpp",
               "RelativeDocumentMoniker": "4\\source4.cpp",
@@ -92,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "source3.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\3\\source3.cpp",
               "RelativeDocumentMoniker": "3\\source3.cpp",
@@ -118,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "source1.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-18\\1\\source1.cpp",
               "RelativeDocumentMoniker": "1\\source1.cpp",
