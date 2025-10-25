@@ -14,7 +14,7 @@ int main(int argc, char** argv)
             if (current > max) max = current;
         }
         else 
-        { 
+        {
             current = 0;
         }
     }

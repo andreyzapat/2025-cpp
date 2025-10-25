@@ -1,0 +1,4 @@
+﻿  source1.cpp
+C:\Users\USER\Documents\2025-cpp\2025-10-25\1\source1.cpp(8,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Documents\2025-cpp\2025-10-25\1\source1.cpp(12,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Documents\2025-cpp\2025-10-25\1\source1.cpp(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
