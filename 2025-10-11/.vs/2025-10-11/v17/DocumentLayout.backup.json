@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{2875B1DE-9DCF-4ECA-A8A3-921C337A49BC}|5 source\\5 source.vcxproj|solutionrelative:5 source\\source5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38EBF71B-16A9-430D-9759-62E75AFEF775}|1.2 source\\1.2 source.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\1.2 source\\source1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{38EBF71B-16A9-430D-9759-62E75AFEF775}|1.2 source\\1.2 source.vcxproj|solutionrelative:1.2 source\\source1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{373F1C58-1E64-4001-AEDD-29CC3199B711}|4 source\\4 source.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\4 source\\source4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{373F1C58-1E64-4001-AEDD-29CC3199B711}|4 source\\4 source.vcxproj|solutionrelative:4 source\\source4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -25,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{BFE16E9F-94A3-412F-8477-66D5F961B3ED}|2 source\\2 source.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\2 source\\source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BFE16E9F-94A3-412F-8477-66D5F961B3ED}|2 source\\2 source.vcxproj|solutionrelative:2 source\\source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECA5523-5DDF-4DB2-8AE5-0F3E3EE9DDF0}|1.3\\1.3.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\1.3\\source1.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ECA5523-5DDF-4DB2-8AE5-0F3E3EE9DDF0}|1.3\\1.3.vcxproj|solutionrelative:1.3\\source1.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38EBF71B-16A9-430D-9759-62E75AFEF775}|1.2 source\\1.2 source.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\1.2 source\\source1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38EBF71B-16A9-430D-9759-62E75AFEF775}|1.2 source\\1.2 source.vcxproj|solutionrelative:1.2 source\\source1.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{738C098A-A4B6-42D5-A0E9-E7A5AD70C827}|1.1\\1.1.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\1.1\\source1.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -48,7 +52,7 @@
               "RelativeDocumentMoniker": "6 source\\source6.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\6 source\\source6.cpp",
               "RelativeToolTip": "6 source\\source6.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvywAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-11T13:56:53.318Z",
               "EditorCaption": ""
@@ -61,26 +65,27 @@
               "RelativeDocumentMoniker": "5 source\\source5.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\5 source\\source5.cpp",
               "RelativeToolTip": "5 source\\source5.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-11T13:56:43.89Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "source4.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\4 source\\source4.cpp",
               "RelativeDocumentMoniker": "4 source\\source4.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\4 source\\source4.cpp",
               "RelativeToolTip": "4 source\\source4.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-11T13:56:35.844Z"
+              "WhenOpened": "2025-10-11T13:56:35.844Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "source3.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\3 source\\source3.cpp",
               "RelativeDocumentMoniker": "3 source\\source3.cpp",
@@ -88,43 +93,60 @@
               "RelativeToolTip": "3 source\\source3.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-11T13:56:22.655Z"
+              "WhenOpened": "2025-10-11T13:56:22.655Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "source2.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\2 source\\source2.cpp",
               "RelativeDocumentMoniker": "2 source\\source2.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\2 source\\source2.cpp",
               "RelativeToolTip": "2 source\\source2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-11T13:55:44.831Z"
+              "WhenOpened": "2025-10-11T13:55:44.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "source1.3.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\1.3\\source1.3.cpp",
+              "RelativeDocumentMoniker": "1.3\\source1.3.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\1.3\\source1.3.cpp",
+              "RelativeToolTip": "1.3\\source1.3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-26T22:25:18.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "source1.2.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\1.2 source\\source1.2.cpp",
               "RelativeDocumentMoniker": "1.2 source\\source1.2.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\1.2 source\\source1.2.cpp",
               "RelativeToolTip": "1.2 source\\source1.2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-14T17:05:06.155Z"
+              "WhenOpened": "2025-10-14T17:05:06.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "source1.1.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\1.1\\source1.1.cpp",
               "RelativeDocumentMoniker": "1.1\\source1.1.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-11\\1.1\\source1.1.cpp",
               "RelativeToolTip": "1.1\\source1.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-17T10:45:52.029Z"
+              "WhenOpened": "2025-10-17T10:45:52.029Z",
+              "EditorCaption": ""
             }
           ]
         }

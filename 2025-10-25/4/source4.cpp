@@ -3,14 +3,14 @@
 int main(int argc, char** argv)
 {
     int n;
-    scanf("%d", &n);
+    scanf_s("%d", &n);
     int arr[1000];
     for (int i = 0; i < n; i++) 
     {
-        scanf("%d", &arr[i]);
+        scanf_s("%d", &arr[i]);
     }
     int x;
-    scanf("%d", &x);
+    scanf_s("%d", &x);
     int closest = arr[0];
     int min_diff = abs(arr[0] - x);
     for (int i = 1; i < n; i++) 

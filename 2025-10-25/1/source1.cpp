@@ -9,9 +9,9 @@ int main(int argc, char** argv)
     int arr[1000];
     for (int i = 0; i < n; i++) 
     {
-        scanf("%d", &arr[i]);
+        scanf_s("%d", &arr[i]);
     }
-    scanf("%d", &x);
+    scanf_s("%d", &x);
     for (int i = 0; i < n; i++) 
     {
         if (arr[i] == x) 
