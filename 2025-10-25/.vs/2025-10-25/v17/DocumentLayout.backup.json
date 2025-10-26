@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2A0D235-0EE5-42FF-A7C2-9F0544F813A6}|2\\2.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-25\\2\\source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E2A0D235-0EE5-42FF-A7C2-9F0544F813A6}|2\\2.vcxproj|solutionrelative:2\\source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90A3022B-D205-4460-8E62-7A860914B19B}|1\\1.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-25\\1\\source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{90A3022B-D205-4460-8E62-7A860914B19B}|1\\1.vcxproj|solutionrelative:1\\source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A0D235-0EE5-42FF-A7C2-9F0544F813A6}|2\\2.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-25\\2\\source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2A0D235-0EE5-42FF-A7C2-9F0544F813A6}|2\\2.vcxproj|solutionrelative:2\\source2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6240E159-7AC3-4A02-BE8B-4CCC5F2A31FA}|3\\3.vcxproj|C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-25\\3\\source3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -46,8 +46,7 @@
               "RelativeToolTip": "6\\source6.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-25T12:56:34.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T12:56:34.143Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "5\\source5.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-25T12:56:21.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T12:56:21.854Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "4\\source4.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-25T12:56:13.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T12:56:13.577Z"
             },
             {
               "$type": "Document",
@@ -85,12 +82,11 @@
               "RelativeToolTip": "3\\source3.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-25T12:56:07.421Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T12:56:07.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "source2.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-25\\2\\source2.cpp",
               "RelativeDocumentMoniker": "2\\source2.cpp",
@@ -103,13 +99,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "source1.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-25\\1\\source1.cpp",
               "RelativeDocumentMoniker": "1\\source1.cpp",
               "ToolTip": "C:\\Users\\USER\\Documents\\2025-cpp\\2025-10-25\\1\\source1.cpp",
               "RelativeToolTip": "1\\source1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-25T12:48:01.135Z",
               "EditorCaption": ""

@@ -5,7 +5,7 @@ int main(int argc, char** argv)
     int x = 0;
     int num = 0;
     int count = 0;
-    scanf("%d", &n);
+    scanf_s("%d", &n);
     int arr[1000];
     for (int i = 0; i < n; i++) 
     {
