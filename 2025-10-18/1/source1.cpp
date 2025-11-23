@@ -6,10 +6,11 @@ int main(int argc, char** argv)
     int b = 1;
     int i = 1;
     scanf("%d", &n);
-    while (i++ <= n)
+    while (i <= n)
     {
         b = a + b;
         a = b - a;
+        i++;
     }
     printf("%d\n", n == 0 ? 0 : a);
     return 0;
