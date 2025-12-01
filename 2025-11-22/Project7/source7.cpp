@@ -15,7 +15,7 @@ bool isPalindrome(char str[])
     }
     return true;
 }
-int main(char argc, char** argv)
+int main(int argc, char** argv)
 {
     char str[1000];
     scanf_s("%s", str, (unsigned)sizeof(str));

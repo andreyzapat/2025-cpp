@@ -5,7 +5,7 @@ bool Compare(char S1[], char S2[])
 {
 	return strcmp(S1, S2) == 0;
 }
-int main(char argc, char** argv)
+int main(int argc, char** argv)
 {
     char S1[100];
     char S2[100];

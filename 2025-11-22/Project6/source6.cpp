@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-int main(char argc, char** argv)
+int main(int argc, char** argv)
 {
     char sentence[1000];
     fgets(sentence, sizeof(sentence), stdin);

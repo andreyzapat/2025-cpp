@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-int main(char argc, char** argv)
+int main(int argc, char** argv)
 {
     char str[1000];
     fgets(str, sizeof(str), stdin);

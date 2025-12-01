@@ -12,7 +12,7 @@ unsigned char ToUpper(unsigned char c)
     }
     return c;
 }
-int main(char argc, char** argv)
+int main(int argc, char** argv)
 {
     unsigned char c;
     scanf_s("%c", &c);

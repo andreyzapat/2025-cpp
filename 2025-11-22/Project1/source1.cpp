@@ -6,7 +6,7 @@ bool IsDigit(unsigned char c)
     char digits[] = "0123456789";
     return (strchr(digits, c) != NULL);
 }
-int main(char argc, char** argv) 
+int main(int argc, char** argv) 
 {
     unsigned char c;
     scanf_s("%c", &c);
