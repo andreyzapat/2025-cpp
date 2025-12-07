@@ -1,0 +1,18 @@
+﻿  source.cpp
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(95,5): error C3861: SetConsoleCP: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(96,5): error C3861: SetConsoleOutputCP: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(100,5): error C3861: clear_input_buffer: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(101,25): error C3861: create_athletes: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(107,9): error C3861: clear_last_linebreak: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(110,9): error C3861: clear_last_linebreak: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(114,9): error C3861: clear_input_buffer: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(122,13): error C3861: clear_last_linebreak: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(125,13): error C3861: clear_input_buffer: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(126,13): error C3861: add_result: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(132,9): error C3861: print_athlete: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(134,21): error C3861: find_best_athlete: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(138,9): error C3861: print_athlete: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(140,5): error C3861: free_athletes: идентификатор не найден
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(99,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(113,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Documents\2025-cpp\2025-12-02\Project1\source.cpp(124,13): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
