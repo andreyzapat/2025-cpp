@@ -1,4 +1,4 @@
-#include <stdio.h>
+п»ї#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 typedef struct {
@@ -59,24 +59,24 @@ Athlete* findBestAthlete(Athlete** athletes, int count) {
     return best;
 }
 void printAllAthletes(Athlete** athletes, int count) {
-    printf("=== СПИСОК СПОРТСМЕНОВ ===\n");
+    printf("=== РЎРџРРЎРћРљ РЎРџРћР РўРЎРњР•РќРћР’ ===\n");
     for (int i = 0; i < count; i++) 
     {
-        printf("\nСпортсмен: %s\n", athletes[i]->name);
-        printf("Вид спорта: %s\n", athletes[i]->sport);
-        printf("Результаты (%d):\n", athletes[i]->result_count);
+        printf("\nРЎРїРѕСЂС‚СЃРјРµРЅ: %s\n", athletes[i]->name);
+        printf("Р’РёРґ СЃРїРѕСЂС‚Р°: %s\n", athletes[i]->sport);
+        printf("Р РµР·СѓР»СЊС‚Р°С‚С‹ (%d):\n", athletes[i]->result_count);
         if (athletes[i]->result_count == 0)
         {
-            printf("  Нет результатов\n");
+            printf("  РќРµС‚ СЂРµР·СѓР»СЊС‚Р°С‚РѕРІ\n");
         }
         else 
         {
             for (int j = 0; j < athletes[i]->result_count; j++) 
             {
-                printf("  %d. %s - %d место\n", j + 1, athletes[i]->results[j].competition, athletes[i]->results[j].place);
+                printf("  %d. %s - %d РјРµСЃС‚Рѕ\n", j + 1, athletes[i]->results[j].competition, athletes[i]->results[j].place);
             }
         }
-        printf("Первых мест: %d\n", countFirstPlaces(athletes[i]));
+        printf("РџРµСЂРІС‹С… РјРµСЃС‚: %d\n", countFirstPlaces(athletes[i]));
     }
 }
 void freeAthlete(Athlete* athlete) {
@@ -95,38 +95,38 @@ int main(int argc, char** argv) {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     int n = 0;
-    printf("Введите количество спортсменов: ");
+    printf("Р’РІРµРґРёС‚Рµ РєРѕР»РёС‡РµСЃС‚РІРѕ СЃРїРѕСЂС‚СЃРјРµРЅРѕРІ: ");
     scanf("%d", &n);
     clear_input_buffer();
     Athlete* athletes = create_athletes(n);
     for (int i = 0; i < n; i++) 
     {
-        printf("\nСпортсмен %d:\n", i + 1);
-        printf("Имя: ");
+        printf("\nРЎРїРѕСЂС‚СЃРјРµРЅ %d:\n", i + 1);
+        printf("РРјСЏ: ");
         fgets(athletes[i].name, sizeof(athletes[i].name), stdin);
         clear_last_linebreak(athletes[i].name);
-        printf("Вид спорта: ");
+        printf("Р’РёРґ СЃРїРѕСЂС‚Р°: ");
         fgets(athletes[i].sport, sizeof(athletes[i].sport), stdin);
         clear_last_linebreak(athletes[i].sport);
         int result_count = 0;
-        printf("Количество результатов: ");
+        printf("РљРѕР»РёС‡РµСЃС‚РІРѕ СЂРµР·СѓР»СЊС‚Р°С‚РѕРІ: ");
         scanf("%d", &result_count);
         clear_input_buffer();
         for (int j = 0; j < result_count; j++) 
         {
             char competition[100];
             int place;
-            printf("Результат %d:\n", j + 1);
-            printf("  Название соревнования: ");
+            printf("Р РµР·СѓР»СЊС‚Р°С‚ %d:\n", j + 1);
+            printf("  РќР°Р·РІР°РЅРёРµ СЃРѕСЂРµРІРЅРѕРІР°РЅРёСЏ: ");
             fgets(competition, sizeof(competition), stdin);
             clear_last_linebreak(competition);
-            printf("  Занятое место: ");
+            printf("  Р—Р°РЅСЏС‚РѕРµ РјРµСЃС‚Рѕ: ");
             scanf("%d", &place);
             clear_input_buffer();
             add_result(&athletes[i].results, competition, place);
         }
     }
-    printf("\n=== ВСЕ СПОРТСМЕНЫ ===\n");
+    printf("\n=== Р’РЎР• РЎРџРћР РўРЎРњР•РќР« ===\n");
     for (int i = 0; i < n; i++) {
         printf("\n%d. ", i + 1);
         print_athlete(&athletes[i]);
@@ -134,7 +134,7 @@ int main(int argc, char** argv) {
     Athlete* best = find_best_athlete(athletes, n);
     if (best) 
     {
-        printf("\n=== ЛУЧШИЙ СПОРТСМЕН ===\n");
+        printf("\n=== Р›РЈР§РЁРР™ РЎРџРћР РўРЎРњР•Рќ ===\n");
         print_athlete(best);
     }
     free_athletes(athletes, n);
